@@ -21,4 +21,4 @@ Ferramenta para controle de entradas e saídas de transações financeiras.
 - **Reactjs - Create App**
 
 **Desenvolvido por:**
-**[Eduardo Cruz](https://github.com/edcruz29/).**# Desafio 1 - Rocketseat Ignite
+**[Eduardo Cruz](https://github.com/edcruz29/).**
